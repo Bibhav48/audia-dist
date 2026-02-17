@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Audia Changelog</title>
+        <link>https://github.com/Bibhav48/audia-dist</link>
+        <description>Audia updates</description>
+        <language>en</language>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 17 Feb 2026 23:11:28 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Initial experimental release.</li>
+                    <li>Free trial only for version 0.1.0.</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.1.0/Audia-0.1.0.zip"
+                       sparkle:version="1"
+                       sparkle:shortVersionString="0.1.0"
+                       length="15000654"
+                       type="application/octet-stream"
+                       sparkle:edSignature="+fyxKFV2pvUMFqgCLKo90GLv3mGBzv9GBgnvo87uknBBA45GF1oyoL67WpJsCxWfhuus1eVDdy64GOK6AZ0lDw==" />
+        </item>
+    </channel>
+</rss>

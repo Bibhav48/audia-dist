@@ -1,0 +1,30 @@
+name: Validate Appcast
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate-appcast:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install xmllint
+        run: sudo apt-get update && sudo apt-get install -y libxml2-utils
+
+      - name: Ensure appcast exists
+        run: test -f appcast.xml
+
+      - name: Validate XML well-formedness
+        run: xmllint --noout appcast.xml
+
+      - name: Validate required Sparkle fields
+        run: |
+          grep -q 'sparkle:version=' appcast.xml
+          grep -q 'sparkle:shortVersionString=' appcast.xml
+          grep -q 'sparkle:edSignature=' appcast.xml
+          grep -q 'length=' appcast.xml
+          grep -q 'type="application/octet-stream"' appcast.xml
