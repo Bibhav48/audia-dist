@@ -6,10 +6,10 @@
         <description>Audia updates</description>
         <language>en</language>
         <item>
-            <title>0.1.2</title>
-            <pubDate>Wed, 18 Feb 2026 07:19:05 +0000</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <title>0.1.3</title>
+            <pubDate>Wed, 18 Feb 2026 07:25:55 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
@@ -17,12 +17,12 @@
                     <li>Free trial only for version 0.1.0.</li>
                 </ul>
             ]]></description>
-            <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.1.2/Audia-0.1.2.zip"
-                       sparkle:version="3"
-                       sparkle:shortVersionString="0.1.2"
-                       length="15130873"
+            <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.1.3/Audia-0.1.3.zip"
+                       sparkle:version="4"
+                       sparkle:shortVersionString="0.1.3"
+                       length="15109684"
                        type="application/octet-stream"
-                       sparkle:edSignature="3K4CPpyMeDQF+G+YbKmECsHw1y0c1/AIq3wtcEQNoKA6CfpY5Nvu6fok9VkDPQyRY9xQ0eAiSW/NbHnibWaXCQ==" />
+                       sparkle:edSignature="E6FAQsQkc/U5ISI3bFJhv96vPCc9HxKJBoWIdH6cO1OtS9OAVoH05PvROaGJMcVUBMO9Yq1MIIYgApUuQzjZBQ==" />
         </item>
     </channel>
 </rss>
