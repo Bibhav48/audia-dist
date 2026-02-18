@@ -7,7 +7,7 @@
         <language>en</language>
         <item>
             <title>0.1.0</title>
-            <pubDate>Wed, 18 Feb 2026 00:30:39 +0000</pubDate>
+            <pubDate>Wed, 18 Feb 2026 00:48:59 +0000</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
@@ -20,9 +20,9 @@
             <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.1.0/Audia-0.1.0.zip"
                        sparkle:version="1"
                        sparkle:shortVersionString="0.1.0"
-                       length="15026610"
+                       length="14980243"
                        type="application/octet-stream"
-                       sparkle:edSignature="CQxjn9xkXTCp498XvtJbIscxDSASsnR3/LPULNHJvT5QUA6mEWEpX3EJ1KtEOaqsdg7oqDGzg1JQdDK5WeEaAg==" />
+                       sparkle:edSignature="AljSHSlOdG9Zu4gD39O/pKQve/8kDb5QqSIqRE/7MJGGId6Aiu7MXSzdcEYj23A6S4LK+GHI8ivn3FmLhQvKDA==" />
         </item>
     </channel>
 </rss>
