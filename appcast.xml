@@ -6,26 +6,25 @@
         <description>Audia updates</description>
         <language>en</language>
         <item>
-            <title>0.1.5</title>
-            <pubDate>Fri, 20 Feb 2026 19:56:08 +0000</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <title>0.1.6</title>
+            <pubDate>Fri, 20 Feb 2026 22:53:08 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <description><![CDATA[
 <ul>
-  <li>Mixer routing and stability improvements.</li>
-  <li>EQ and VU meter optimizations for smoother, lower-latency UI updates.</li>
-  <li>Focused fixes for mixer performance regressions and hot-path overhead.</li>
-  <li>Audio pipeline hardening for recording/tap lifecycle and ring buffer reliability.</li>
-  <li>Ambient update efficiency improvements and filter correctness fixes.</li>
+  <li>Introduced tier-based feature locks for Basic, Pro, and Studio plans.</li>
+  <li>Updated UI to clearly show locked controls and upgrade prompts.</li>
+  <li>Restricted advanced controls in free usage to align with current rollout.</li>
+  <li>Stability and performance improvements across mixer and metering paths.</li>
 </ul>
             ]]></description>
-            <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.1.5/Audia-0.1.5.zip"
-                       sparkle:version="6"
-                       sparkle:shortVersionString="0.1.5"
-                       length="15238896"
+            <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.1.6/Audia-0.1.6.zip"
+                       sparkle:version="7"
+                       sparkle:shortVersionString="0.1.6"
+                       length="15246447"
                        type="application/octet-stream"
-                       sparkle:edSignature="YF2gmHUcTJJvGQHmjROx4cV8jIeuTmIJ3N+hiSjFBU1SKYA2w+IUuZEt6M4AwnpndtFjgnOzH6pDSbHXyGGDBA==" />
+                       sparkle:edSignature="JzEsiM730OWZki+Vk4sXNuNnJgN01diLEdmYrwDSnTf18ChT/Vu8pyg9vE18UoCU9V+IEPsFPiXcKXM8GhAxBQ==" />
         </item>
     </channel>
 </rss>
