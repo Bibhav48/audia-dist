@@ -6,23 +6,26 @@
         <description>Audia updates</description>
         <language>en</language>
         <item>
-            <title>0.1.4</title>
-            <pubDate>Wed, 18 Feb 2026 09:08:42 +0000</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <title>0.1.5</title>
+            <pubDate>Fri, 20 Feb 2026 19:56:08 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <ul>
-                    <li>Initial experimental release.</li>
-                    <li>Free trial only for version 0.1.0.</li>
-                </ul>
+<ul>
+  <li>Mixer routing and stability improvements.</li>
+  <li>EQ and VU meter optimizations for smoother, lower-latency UI updates.</li>
+  <li>Focused fixes for mixer performance regressions and hot-path overhead.</li>
+  <li>Audio pipeline hardening for recording/tap lifecycle and ring buffer reliability.</li>
+  <li>Ambient update efficiency improvements and filter correctness fixes.</li>
+</ul>
             ]]></description>
-            <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.1.4/Audia-0.1.4.zip"
-                       sparkle:version="5"
-                       sparkle:shortVersionString="0.1.4"
-                       length="15110410"
+            <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.1.5/Audia-0.1.5.zip"
+                       sparkle:version="6"
+                       sparkle:shortVersionString="0.1.5"
+                       length="15238896"
                        type="application/octet-stream"
-                       sparkle:edSignature="5pkQo+0rzSxyRNOGnXqBWn9c6rDn8E1X+F5dXxXfEP5IkoDeX4I/QCaCyhuH6oA8n9pwXhkvV4p4OS3FBzAMBA==" />
+                       sparkle:edSignature="YF2gmHUcTJJvGQHmjROx4cV8jIeuTmIJ3N+hiSjFBU1SKYA2w+IUuZEt6M4AwnpndtFjgnOzH6pDSbHXyGGDBA==" />
         </item>
     </channel>
 </rss>
