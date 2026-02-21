@@ -6,25 +6,25 @@
         <description>Audia updates</description>
         <language>en</language>
         <item>
-            <title>0.1.6</title>
-            <pubDate>Fri, 20 Feb 2026 22:53:08 +0000</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <title>0.1.7</title>
+            <pubDate>Sat, 21 Feb 2026 01:11:11 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <description><![CDATA[
 <ul>
-  <li>Introduced tier-based feature locks for Basic, Pro, and Studio plans.</li>
-  <li>Updated UI to clearly show locked controls and upgrade prompts.</li>
-  <li>Restricted advanced controls in free usage to align with current rollout.</li>
-  <li>Stability and performance improvements across mixer and metering paths.</li>
+  <li>Improved feature access controls for a cleaner release experience.</li>
+  <li>Better consistency across key audio workflows and toggles.</li>
+  <li>General stability and performance refinements.</li>
+  <li>UI and reliability improvements in core controls.</li>
 </ul>
             ]]></description>
-            <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.1.6/Audia-0.1.6.zip"
-                       sparkle:version="7"
-                       sparkle:shortVersionString="0.1.6"
-                       length="15246447"
+            <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.1.7/Audia-0.1.7.zip"
+                       sparkle:version="8"
+                       sparkle:shortVersionString="0.1.7"
+                       length="15246665"
                        type="application/octet-stream"
-                       sparkle:edSignature="JzEsiM730OWZki+Vk4sXNuNnJgN01diLEdmYrwDSnTf18ChT/Vu8pyg9vE18UoCU9V+IEPsFPiXcKXM8GhAxBQ==" />
+                       sparkle:edSignature="KtEf94gqX6BuRZgL9lEIIeQ1samGVjXqndyGb3D6xTAHDuypqbzTs3ka8GytrPjYJmrleD6jZZe+wHTU2aXOCA==" />
         </item>
     </channel>
 </rss>
