@@ -6,25 +6,68 @@
         <description>Audia updates</description>
         <language>en</language>
         <item>
-            <title>0.1.7</title>
-            <pubDate>Sat, 21 Feb 2026 01:11:11 +0000</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <title>0.2.0</title>
+            <pubDate>Sat, 28 Feb 2026 02:22:36 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <description><![CDATA[
+<h2>Audia 0.2.0</h2>
+<p>Audia 0.2.0 is a major alpha update focused on faster daily use, cleaner controls, better media handling, and stronger stability across mixer workflows.</p>
+<h3>New and Improved</h3>
 <ul>
-  <li>Improved feature access controls for a cleaner release experience.</li>
-  <li>Better consistency across key audio workflows and toggles.</li>
-  <li>General stability and performance refinements.</li>
-  <li>UI and reliability improvements in core controls.</li>
+  <li>Major redesign of Settings and menubar surfaces with cleaner structure and improved navigation.</li>
+  <li>Compact and Advanced menu experiences with section reordering, visibility controls, and default-open behavior.</li>
+  <li>Detached panel presentation with improved dismissal/position handling.</li>
+  <li>Better onboarding flow with clearer feature walkthrough and browser-related setup guidance.</li>
+</ul>
+<h3>Mixer and Audio Controls</h3>
+<ul>
+  <li>Improved per-app and master control responsiveness with refined throttling and smoother UI updates.</li>
+  <li>Better mute/zero-volume behavior to match native macOS expectations.</li>
+  <li>Improved default-volume application behavior and stronger mute state consistency.</li>
+  <li>Improved recording app visibility logic with grace-window handling for active audio sources.</li>
+</ul>
+<h3>Device Routing and Input</h3>
+<ul>
+  <li>Better output/input device control paths and reliability across app and global routing.</li>
+  <li>Improved multi-device behavior in compact controls and safer option availability in unsupported scenarios.</li>
+  <li>Input shortcut support improvements with better action handling and automation behavior.</li>
+  <li>Auto-mute rule UX and settings improvements, including app selection/search refinements.</li>
+</ul>
+<h3>Media and Now Playing</h3>
+<ul>
+  <li>Expanded now-playing support and improved reliability when switching active media apps.</li>
+  <li>Improved preferred-player behavior and automatic fallback handling when unavailable.</li>
+  <li>Better transport/state controls with more consistent feedback in the UI.</li>
+</ul>
+<h3>HUD and Visual Feedback</h3>
+<ul>
+  <li>New custom HUD refinements with improved icon resolution and device-aware visuals.</li>
+  <li>Better app/device icon handling across Bluetooth, built-in, and external device scenarios.</li>
+  <li>Improved large-value rendering, quantization behavior, and style previews.</li>
+  <li>Multiple visual polish updates for alignment, spacing, hit-testing, and animation quality.</li>
+</ul>
+<h3>Shortcuts and App Intents</h3>
+<ul>
+  <li>Expanded App Intents and shortcut controls for key audio actions.</li>
+  <li>Better parameter handling and intent consistency for slider-based controls.</li>
+  <li>Reliability fixes for intent-triggered actions and settings sync behavior.</li>
+</ul>
+<h3>Stability and Reliability</h3>
+<ul>
+  <li>Broad performance and responsiveness improvements across mixer and panel interactions.</li>
+  <li>Fixes for panel resize flicker and close/dismiss edge cases.</li>
+  <li>Reliability updates for launch/focus behavior and window presentation flow.</li>
+  <li>Additional hardening for edge cases in core UI interactions.</li>
 </ul>
             ]]></description>
-            <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.1.7/Audia-0.1.7.zip"
-                       sparkle:version="8"
-                       sparkle:shortVersionString="0.1.7"
-                       length="15246665"
+            <enclosure url="https://github.com/Bibhav48/audia-dist/releases/download/v0.2.0/Audia-0.2.0.zip"
+                       sparkle:version="9"
+                       sparkle:shortVersionString="0.2.0"
+                       length="16319720"
                        type="application/octet-stream"
-                       sparkle:edSignature="KtEf94gqX6BuRZgL9lEIIeQ1samGVjXqndyGb3D6xTAHDuypqbzTs3ka8GytrPjYJmrleD6jZZe+wHTU2aXOCA==" />
+                       sparkle:edSignature="UCUilFfKJY22yXFRvKh1rX/74xfglhXvzASjXspv8mHixHceoqeIn5Zt3kdqDVIuKY+HDZn+IyOeSSHUCpeEAw==" />
         </item>
     </channel>
 </rss>
