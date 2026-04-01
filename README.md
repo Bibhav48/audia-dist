@@ -1,16 +1,21 @@
-<img src="assets/icon.png" width="170" height="170" alt="Audia app icon" align="left"/>
+<p align="center">
+  <img src="assets/icon.png" width="170" height="170" alt="Audia app icon"/>
+</p>
 
-<h3>Audia</h3>
+<h1 align="center">Audia</h1>
 
-MacOS gives you one system-wide volume slider. No per-app control, no proper routing, no deep EQ workflow. If you want full audio control today, you usually end up stacking multiple disjointed software tools.
+<p align="center">
+  MacOS gives you one system-wide volume slider. No per-app control, no proper routing, no deep EQ workflow.<br>
+  If you want full audio control today, you usually end up stacking multiple disjointed software tools.
+</p>
 
 Audia is built to change that. It is a single, beautifully native macOS app that handles your entire audio workflow cleanly. Control the volume of every app (and even individual browser tabs) independently, route audio to multiple speakers with smooth crossfades, shape your sound with an advanced 10-band EQ, and record isolated app audio natively.
 
 It completely replaces the stock Apple volume overlay with a customizable "Liquid Glass" HUD, living quietly in your menu bar. Built with native Swift for low-latency performance. One app. One menu bar icon.
 
-<a href="https://github.com/Bibhav48/audia-dist/releases/latest"><img src="assets/download-badge.svg" alt="Download for macOS" height="48"/></a>
-
-<br clear="all"/>
+<p align="center">
+  <a href="https://github.com/Bibhav48/audia-dist/releases/latest"><img src="assets/download-badge.svg" alt="Download for macOS" height="48"/></a>
+</p>
 
 <p align="center">
   <a href="https://audia.vercel.app/"><img src="https://img.shields.io/badge/Website-audia.vercel.app-1c1c1e?style=for-the-badge&color=0A84FF" alt="Website"></a>
