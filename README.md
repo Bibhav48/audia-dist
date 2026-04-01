@@ -1,4 +1,4 @@
-<!-- ! <img src="assets/icon.png" width="170" height="170" alt="Audia app icon" align="left"/> -->
+<img src="assets/icon.png" width="170" height="170" alt="Audia app icon" align="left"/>
 
 <h3>Audia</h3>
 
@@ -8,7 +8,7 @@ Audia is built to change that. It is a single, beautifully native macOS app that
 
 It completely replaces the stock Apple volume overlay with a customizable "Liquid Glass" HUD, living quietly in your menu bar. Built with native Swift for low-latency performance. One app. One menu bar icon.
 
-<!-- ! <a href="https://github.com/Bibhav48/audia-dist/releases/latest"><img src="assets/download-badge.svg" alt="Download for macOS" height="48"/></a> -->
+<a href="https://github.com/Bibhav48/audia-dist/releases/latest"><img src="assets/download-badge.svg" alt="Download for macOS" height="48"/></a>
 
 <br clear="all"/>
 
@@ -21,7 +21,7 @@ It completely replaces the stock Apple volume overlay with a customizable "Liqui
 </p>
 
 <p align="center">
-  <!-- ! <img src="assets/screenshot-main.png" alt="Audia showing minimal Liquid Glass HUD and per-app audio controls" width="750"> -->
+  <img src="assets/screenshot-main.png" alt="Audia showing minimal Liquid Glass HUD and per-app audio controls" width="750">
 </p>
 
 ## Install
