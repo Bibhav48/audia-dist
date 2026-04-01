@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="assets/icon.png" width="170" height="170" alt="Audia app icon"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icon-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/icon-light.png">
+    <img src="assets/icon-light.png" width="170" height="170" alt="Audia app icon"/>
+  </picture>
 </p>
 
 <h1 align="center">Audia</h1>
 
-<p align="center">
-  MacOS gives you one system-wide volume slider. No per-app control, no proper routing, no deep EQ workflow.<br>
-  If you want full audio control today, you usually end up stacking multiple disjointed software tools.
-</p>
+MacOS gives you one system-wide volume slider. No per-app control, no proper routing, no deep EQ workflow. If you want full audio control today, you usually end up stacking multiple disjointed software tools.
 
 Audia is built to change that. It is a single, beautifully native macOS app that handles your entire audio workflow cleanly. Control the volume of every app (and even individual browser tabs) independently, route audio to multiple speakers with smooth crossfades, shape your sound with an advanced 10-band EQ, and record isolated app audio natively.
 
@@ -18,11 +19,11 @@ It completely replaces the stock Apple volume overlay with a customizable "Liqui
 </p>
 
 <p align="center">
-  <a href="https://audia.vercel.app/"><img src="https://img.shields.io/badge/Website-audia.vercel.app-1c1c1e?style=for-the-badge&color=0A84FF" alt="Website"></a>
+  <a href="https://audia.vercel.app/"><img src="https://img.shields.io/badge/Website-Audia-1c1c1e?style=for-the-badge&color=0A84FF" alt="Website"></a>
   <a href="https://github.com/Bibhav48/audia-dist/releases/latest"><img src="https://img.shields.io/github/v/release/Bibhav48/audia-dist?style=for-the-badge&labelColor=1c1c1e&color=3a3a3c&logo=github&logoColor=white" alt="Latest Release"></a>
   <a href="https://github.com/Bibhav48/audia-dist/releases"><img src="https://img.shields.io/github/downloads/Bibhav48/audia-dist/total?style=for-the-badge&labelColor=1c1c1e&color=3a3a3c" alt="Downloads"></a>
   <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-14%2B-3a3a3c?style=for-the-badge&labelColor=1c1c1e&logo=apple&logoColor=white" alt="macOS 14+"></a>
-  <img src="https://img.shields.io/badge/Status-Beta%20(Free%20Trial)-3a3a3c?style=for-the-badge&labelColor=1c1c1e" alt="Status: Beta">
+  <img src="https://img.shields.io/badge/Status-Beta-3a3a3c?style=for-the-badge&labelColor=1c1c1e" alt="Status: Beta">
 </p>
 
 <p align="center">
