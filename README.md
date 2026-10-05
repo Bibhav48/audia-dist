@@ -1,3 +1,7 @@
+> **Archived project**
+>
+> This repository is no longer maintained. No further updates or support will be provided.
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/icon-dark.png">
